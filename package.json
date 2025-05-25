@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@fizzxydev/baileys-pro": "^8.7.1",
+    "axios": "^1.7.8",
+    "node-fetch": "^3.3.2"
+  }
+}
